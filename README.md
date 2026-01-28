@@ -698,4 +698,4 @@ Realizado entre Agosto e Dezembro de 2022
 
 ## Certificado
 
-![](https://github.com/tiagosathler/udemy-java-complete-course/blob/master/misc/UC-20bd16eb-b479-4ab4-9517-c968583521c1.jpg)
+![]()
